@@ -14,7 +14,6 @@ Backend: Django, Django Channels, WebSockets
 Setup Instructions
 🖥 Backend (Django)
 cd backend
-pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
 🌐 Frontend (React)
